@@ -1,7 +1,7 @@
-# GoStack Desafio 01 <h1>
+## GoStack Desafio 01
   Projeto que visa mostrar o básico de uma API Rest. Foram especificadas as rotas, os retornos e dois *middlewares*: um que faz a validação de busca de um projeto e outro que contava o número de requests.
   
-## TODO (adicionais) <h2>
+### TODO (adicionais)
   1. ~~Substituir implementação de armazenamento de dados na memória por banco de dados (MongoDB);~~
   2. Adicionar Redis para cache das chamadas;
   3. Implementar *fuzzy searching*;
